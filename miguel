@@ -1,0 +1,11 @@
+cargo = input("cargo: ")
+
+dia = input("Dia da semana: ")
+
+if cargo == "gerente")
+
+    print(Acesso permitido")
+
+elif cargo == "analista" or cargo == "estagiario":
+
+    if dia in[
